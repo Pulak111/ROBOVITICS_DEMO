@@ -1,1 +1,2 @@
 2nd try of git using .gitignore
+Also want to see what happen if i commit but not push
